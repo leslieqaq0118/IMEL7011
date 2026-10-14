@@ -1,4 +1,4 @@
-# IMEL7011 MEMS Accelerometer Lab
+# IMEL7011
 
 English teaching materials for modeling and simulating a MEMS accelerometer.
 
